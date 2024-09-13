@@ -1,0 +1,7 @@
+eid  ename  dept       basic    branch   
+---  -----  ---------  -------  ---------
+1    rohan  account    50000.0  delhi    
+2    sneha  inventory  45000.0  mumbai   
+3    amit   it         60000.0  bangalore
+4    priya  hr         55000.0  chennai  
+5    karan  it         62000.0  pune     
