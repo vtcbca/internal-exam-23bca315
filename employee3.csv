@@ -1,3 +1,7 @@
+(8)Create table Employee ( eid, ename, dept, basic, branch). eid must be primary key. [ Department : Account, Inventory, IT, HR. ] Insert 5 Records and export into csv file.
+   Read csv file using reader object. Update records who are from "Surat" branch with increment in salary 10% and write it into "Surat.csv" file.
+
+
 eid  ename  dept       basic    branch   
 ---  -----  ---------  -------  ---------
 1    rohan  account    50000.0  delhi    
